@@ -14,11 +14,11 @@ So, what does ProjectGlyphMotion actually *do*? Well, you feed it a video, and i
 
 ### 🧪 What We Have Build So Far / What The Project Offers 
 
-- 🌐 Website:  
+- 🌐 [Website](https://projectglyphmotion.studio/)   
 
-- 📜 Script: 
+- 📜 [Script](https://github.com/ProjectGlyphMotion/Script) 
 
-- 🖥️ GUI: 
+- 🖥️ [GUI](https://github.com/ProjectGlyphMotion/GUI)  
 
 ---
 
