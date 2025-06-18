@@ -14,7 +14,7 @@ So, what does ProjectGlyphMotion actually *do*? Well, you feed it a video, and i
 
 ### 🧪 What We Have Build So Far / What The Project Offers 
 
-- 🌐 [Website](https://projectglyphmotion.studio/)   
+- 🌐 [Website](https://projectglyphmotion.studio/)   | [Deployable Website Documentation](https://projectglyphmotion.studio/documentation.html)
 
 - 📜 [Script](https://github.com/ProjectGlyphMotion/Script) 
 
