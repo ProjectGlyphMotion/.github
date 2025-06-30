@@ -16,9 +16,9 @@ So, what does ProjectGlyphMotion actually *do*? Well, you feed it a video, and i
 
 - 🌐 [Website](https://projectglyphmotion.studio/)   | [Deployable Website Documentation](https://projectglyphmotion.studio/documentation.html)
 
-- 📜 [Script](https://github.com/ProjectGlyphMotion/Script) 
+- 📜 [Script](https://github.com/ProjectGlyphMotion/Script) | Everything Works Fine 
 
-- 🖥️ [GUI](https://github.com/ProjectGlyphMotion/GUI)  
+- 🖥️ [GUI](https://github.com/ProjectGlyphMotion/GUI)  | Currently Archived Because Of [This](https://github.com/ProjectGlyphMotion/Script/commit/506987a03d814ec01e65b76d73a321756638ebed) Issue, It Is Under Fixing And Will Be Fixed (Hopefully/FakeHopes), Other Than That Everything Works Fine  
 
 ---
 
